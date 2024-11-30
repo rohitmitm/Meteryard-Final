@@ -1,0 +1,40 @@
+.logo{
+    width: 150px;
+}
+.phicon{
+    width: 25px;
+}
+.whtsaap{
+    
+    width: 25px;
+}
+.wht{
+    text-decoration: none;
+    color: black;
+}
+.logimg{
+    width: 25px; 
+}
+.bg{
+    background-color: black;
+   border-radius:  35px 15px 15px 50px ;
+   height: 50px;
+   
+} 
+.Carouse{
+    color: #a2d117;
+}
+.search{
+    background-color: #a2d117 !important;
+}
+.viewbtn{
+    background-color: #a2d117 !important; 
+}
+.price{
+    color: black !important;
+    font-size: 15px !important;
+    
+}
+.btn-details{
+    background-color: #a2d117 !important; 
+}
